@@ -1,0 +1,28 @@
+------ Telephone Özellikleri ------
+Telephone [Marka : Samsung, Model : Z-1245, Seri Numarası : Samsung-0323-328638398, Toplam Depolama Alanı : 65.0 GB , Boş Alan : 5.399999999999999 GB , İşletim Sistemi : Android ]
+
+
+------ Kişiler ------
+
+Contact [İsim: Zeynep, Soyisim: Ozan, Telefon Numarası: 12345, Email: zeynep@gmail.com ]
+Contact [İsim: ali, Soyisim: kara, Telefon Numarası: 4567, Email: ali@gmail.com ]
+
+------ Uygulamalar ------
+
+Application [İsim : Instagram, Sürüm : 1.4, Boyut : 25.0 GB  ]
+Application [İsim : Linkedin, Sürüm : 23.5, Boyut : 12.7 GB  ]
+
+------ Telephone Özellikleri ------
+Telephone [Marka : Apple, Model : Y-34, Seri Numarası : Apple-0323-75457651, Toplam Depolama Alanı : 34.5 GB , Boş Alan : 6.0 GB , İşletim Sistemi : MacOS ]
+
+
+------ Kişiler ------
+
+Contact [İsim: Zeynep, Soyisim: Ozan, Telefon Numarası: 1234567, Email: zeynep@gmail.com ]
+Contact [İsim: ali, Soyisim: kara, Telefon Numarası: 56789, Email: ali@gmail.com ]
+
+------ Uygulamalar ------
+
+Application [İsim : LastInstagram, Sürüm : 5.6, Boyut : 23.5 GB  ]
+Application [İsim : Twitter, Sürüm : 3.5, Boyut : 5.0 GB  ]
+
